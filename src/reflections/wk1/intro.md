@@ -6,4 +6,4 @@ test
 
 ---
 
-new tests
+new test
