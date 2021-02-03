@@ -5,6 +5,6 @@ A pseudo-class is a class that happens only in other classes. Like :hover, it wi
  Specificity is the rank of calls. An example would be having the main{} class have the text color in general as black, but then having a special class to modify the color if its for a special spot in the website. It keeps you organized while having a back-up rank in case something goes wrong.
  
  3. What problems do you think you could run into if you over-utilized the !important feature?
- It could stop your code from overwriting something, like the color of text or font-size.
+ It could stop your code from overwriting something, like the color of text or font-size. 
 
  Cool site afternoon work: https://github.com/ChrisJCurry/cool-site
