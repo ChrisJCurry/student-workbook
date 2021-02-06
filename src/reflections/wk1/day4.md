@@ -7,3 +7,5 @@
     - High- is useful due to being more detailed, therefore allows the developers to see exactly how they want their designs to look. Usually in the later stages so it's not wasted time making something early on.
 3. Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not? 
     I feel they definitely have a use. The low-fidelity are nice due to how quick they can be made/scrapped, whereas the high-fidelity is nice due to being able to see exactly what you had in mind come to life. Mid-fidelity seems to be the least-worth the time simply due to it requiring more work while not being too much more specific than low-fidelity.
+
+    Deere site clone: https://github.com/ChrisJCurry/deere-site-clone
