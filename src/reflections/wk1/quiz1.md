@@ -21,7 +21,7 @@
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-  Hyperlink text markup language
+  Hypertext markup language
 ```
 
 **5.** What Does `CSS` stand for?
