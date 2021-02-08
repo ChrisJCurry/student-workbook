@@ -7,4 +7,4 @@ A pseudo-class is a class that happens only in other classes. Like :hover, it wi
  3. What problems do you think you could run into if you over-utilized the !important feature?
  It could stop your code from overwriting something, like the color of text or font-size. It also possibly overwrites stylesheets that are loaded, even if theyre loaded after.
 
- Cool site afternoon work: https://github.com/ChrisJCurry/cool-site
+ Cool site afternoon work: https://chrisjcurry.github.io/cool-site/
