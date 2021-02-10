@@ -8,3 +8,5 @@
     let: I would use let inside a function that doesn't need to update a global variable.
     const: If I needed a variable to never change, I would use a const.
     var: I would use a var if it needed to be a global variable that functions could also modify.
+
+    Link: https://chrisjcurry.github.io/js-test-day-1/
