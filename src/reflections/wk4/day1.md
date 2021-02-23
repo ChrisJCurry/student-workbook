@@ -10,3 +10,5 @@
         - Make/use libraries to avoid doing more work than necessary.
     3 - Handle Every Single Error
         - Putting errors first makes it for easy remembering of handling errors.
+
+SWAPI: https://chrisjcurry.github.io/swapi-project/
