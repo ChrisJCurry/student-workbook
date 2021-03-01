@@ -16,12 +16,12 @@ let property = 'name'
 ```
 <!-- enter you answer in the space below -->
 ```
-
+staff.name
 ```
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+Putting layers into code to keep it organized and hidden away from user unless necessary.
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
